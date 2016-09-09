@@ -1,0 +1,17 @@
+{
+  "name": "biancode",
+  "description": "A generated project at Fullstack Academy",
+  "main": "server/start.js",
+  "authors": [
+    "Kevin Li <kl2482@nyu.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/polarizing/biancode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
