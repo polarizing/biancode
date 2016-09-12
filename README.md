@@ -1,5 +1,7 @@
 # biancode
 
+[![Code Climate](https://codeclimate.com/github/polarizing/biancode/badges/gpa.svg)](https://codeclimate.com/github/polarizing/biancode)
+
 ### Biancode is an outcomes-driven online learning platform and is used to power the BianCode coding bootcamp.
 
 You need postgres running locally. You can install postgres on a Mac through the command-line ```brew install postgres```.
