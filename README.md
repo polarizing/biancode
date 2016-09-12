@@ -13,5 +13,11 @@ To install and run the application on a local server **for the first time**:
 3. Create a database through the command-line. ```CREATEDB biancode```
 4. Seed the database. ```node seed```
 5. Start the server. ```npm start```
+6. Visit ```localhost:1337```
 
 To run the application **from a pre-existing build**:
+
+1. Seed the database. ```node seed```
+2. Start the server. ```npm start```
+3. Run ```gulp``` (auto-refreshing gulp) or ```gulp build``` (build once).
+4. Visit ```localhost:1337```
