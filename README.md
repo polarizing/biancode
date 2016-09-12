@@ -1,8 +1,9 @@
 # biancode
 
-Biancode is an outcomes-driven online learning platform and is used to power the BianCode coding bootcamp.
+### Biancode is an outcomes-driven online learning platform and is used to power the BianCode coding bootcamp.
 
-Never push to master.
+##### Development Rules
+1. Never push to master.
 
 You need postgres running locally. You can install postgres on a Mac through the command-line ```brew install postgres```.
 
