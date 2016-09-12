@@ -2,9 +2,6 @@
 
 ### Biancode is an outcomes-driven online learning platform and is used to power the BianCode coding bootcamp.
 
-##### Development Rules
-1. Never push to master.
-
 You need postgres running locally. You can install postgres on a Mac through the command-line ```brew install postgres```.
 
 To install and run the application on a local server **for the first time**:
@@ -22,3 +19,6 @@ To run the application **from a pre-existing build**:
 2. Start the server. ```npm start```
 3. Run ```gulp``` (auto-refreshing) or ```gulp build``` (build once).
 4. Visit ```localhost:1337```.
+
+##### For Developers
+- Never push to master.
