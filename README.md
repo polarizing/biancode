@@ -20,5 +20,5 @@ To run the application **from a pre-existing build**:
 3. Run ```gulp``` (auto-refreshing) or ```gulp build``` (build once).
 4. Visit ```localhost:1337```.
 
-##### For Developers
+### For Developers
 - Never push to master.
