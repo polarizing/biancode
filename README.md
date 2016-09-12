@@ -25,3 +25,4 @@ To run the application **from a pre-existing build**:
 ### For Developers
 - Never push to master. Fork, create a new branch, make changes, commit and push to your new branch. Then create a pull request for a code review to merge into master. Learn more about Github [here](https://try.github.io/levels/1/challenges/1) [English] or [here](https://www.zhihu.com/question/20070065) [Chinese].
 - Comment frequently for any code that you write.
+- Join our slack channel: biancode.slack.com
