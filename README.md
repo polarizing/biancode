@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/polarizing/biancode.png?label=ready&title=Ready)](https://waffle.io/polarizing/biancode)
 # biancode
 
 [![Code Climate](https://codeclimate.com/github/polarizing/biancode/badges/gpa.svg)](https://codeclimate.com/github/polarizing/biancode)
