@@ -21,4 +21,4 @@ To run the application **from a pre-existing build**:
 4. Visit ```localhost:1337```.
 
 ### For Developers
-- Never push to master.
+- Never push to master. Fork and create a new branch. Learn about Github here[https://try.github.io/levels/1/challenges/1]
